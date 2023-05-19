@@ -2,6 +2,12 @@
 
 # MiniTorch
 
+*from minitorch page*
+
+* Docs: https://minitorch.github.io/
+
+* Overview: https://minitorch.github.io/module4.html
+
 This project is an implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
 
 Instructed by Professor Sasha Rush at Cornell Tech.
@@ -15,12 +21,6 @@ Instructed by Professor Sasha Rush at Cornell Tech.
 - Optimized data structures to improve computational efficiency and memory usage, and created multiple test cases to validate the correctness of the functions.
 
 ## Overview
-
-*from minitorch page*
-
-* Docs: https://minitorch.github.io/
-
-* Overview: https://minitorch.github.io/module4.html
 
 This module requires `fast_ops.py`, `cuda_ops.py`, `scalar.py`, `tensor_functions.py`, `tensor_data.py`, `tensor_ops.py`, `operators.py`, `module.py`, and `autodiff.py` from Module 3.
 
