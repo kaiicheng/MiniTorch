@@ -18,7 +18,7 @@ Instructed by Professor Sasha Rush at Cornell Tech.
 
 - Implemented parallel computing with Numba and CUDA.
 
--  Visualized with Streamlit and tested functions using pytest and Flake8.
+- Visualized with Streamlit and tested functions using pytest and Flake8.
 
 ## Overview
 
