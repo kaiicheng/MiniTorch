@@ -1,27 +1,26 @@
-# MiniTorch
-
-This project is implemented version of the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/) at Cornell Tech.
-
-Instructed by Professor Sasha Rush
-
-## Project Descriptions 
-
-- Implemented a deep learning training tool from scratch using Python, designed efficient data structures for tensor operations and related deep learning functionalities, to enable users to build and train deep learning models. 
-
-- Developed fundamental modules such as auto-differentiation and backpropagation, broadcasting, GPUs and Parallel Programming, 
-
-- Optimized data structures to improve computational efficiency and memory usage, and created multiple test cases to validate the correctness of the functions.
-
-
 <img src="https://minitorch.github.io/minitorch.svg" width="50%">
 
-## Project Overview
+# MiniTorch
 
 *from minitorch page*
 
 * Docs: https://minitorch.github.io/
 
 * Overview: https://minitorch.github.io/module4.html
+
+This project is an re-implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
+
+Instructed by Professor Sasha Rush at Cornell Tech.
+
+## Descriptions 
+
+- Constructed a deep learning system using Python, including auto-differentiation, backpropagation, and tensor matrix operations.
+
+- Implemented parallel computing with Numba and CUDA.
+
+- Visualized with Streamlit and tested functions using pytest and Flake8.
+
+## Overview
 
 This module requires `fast_ops.py`, `cuda_ops.py`, `scalar.py`, `tensor_functions.py`, `tensor_data.py`, `tensor_ops.py`, `operators.py`, `module.py`, and `autodiff.py` from Module 3.
 
@@ -47,8 +46,3 @@ This assignment requires the following files from the previous assignments. You 
 ```bash
 python sync_previous_module.py previous-module-dir current-module-dir
 ```
-
-The files that will be synced are:
-
-        minitorch/tensor_data.py minitorch/tensor_functions.py minitorch/tensor_ops.py minitorch/fast_ops.py minitorch/cuda_ops.py minitorch/operators.py minitorch/module.py minitorch/autodiff.py minitorch/module.py project/run_manual.py project/run_scalar.py project/run_tensor.py project/run_fast_tensor.py project/parallel_check.py tests/test_tensor_general.py
-
