@@ -1,3 +1,5 @@
+<img src="https://minitorch.github.io/minitorch.svg" width="50%">
+
 # MiniTorch
 
 This project is an implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/).
@@ -11,9 +13,6 @@ Instructed by Professor Sasha Rush at Cornell Tech.
 - Developed fundamental modules such as auto-differentiation and backpropagation, broadcasting, GPUs and Parallel Programming, 
 
 - Optimized data structures to improve computational efficiency and memory usage, and created multiple test cases to validate the correctness of the functions.
-
-
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
 
 ## Project Overview
 
