@@ -4,7 +4,7 @@
 
 This project is an implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
 
-Created by Professor Sasha Rush at Cornell Tech.
+Instructed by Professor Sasha Rush at Cornell Tech.
 
 ## Project Descriptions 
 
