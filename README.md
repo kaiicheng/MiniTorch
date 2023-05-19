@@ -8,7 +8,7 @@
 
 * Overview: https://minitorch.github.io/module4.html
 
-This project is an implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
+This project is an re-implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
 
 Instructed by Professor Sasha Rush at Cornell Tech.
 
