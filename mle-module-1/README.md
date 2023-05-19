@@ -39,7 +39,7 @@
 
 * Docs: https://minitorch.github.io/
 
-* Overview: https://minitorch.github.io/module1.html
+* Overview: [https://minitorch.github.io/module1.html](https://minitorch.github.io/module0/module0/)
 
 This assignment requires the following files from the previous assignments. You can get these by running
 
