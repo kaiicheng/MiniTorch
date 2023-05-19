@@ -12,13 +12,13 @@ This project is an implemented version of PyTorch at the Machine Learning Engine
 
 Instructed by Professor Sasha Rush at Cornell Tech.
 
-## escriptions 
+## Descriptions 
 
-- Implemented a deep learning training tool from scratch using Python, designed efficient data structures for tensor operations and related deep learning functionalities, to enable users to build and train deep learning models. 
+- Constructed a deep learning system using Python, including auto-differentiation, backpropagation, and tensor matrix operations.
 
-- Developed fundamental modules such as auto-differentiation and backpropagation, broadcasting, GPUs and Parallel Programming, 
+- Implemented parallel computing with Numba and CUDA.
 
-- Optimized data structures to improve computational efficiency and memory usage, and created multiple test cases to validate the correctness of the functions.
+-  Visualized with Streamlit and tested functions using pytest and Flake8.
 
 ## Overview
 
