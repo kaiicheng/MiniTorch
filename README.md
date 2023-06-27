@@ -6,7 +6,7 @@
 
 * Docs: https://minitorch.github.io/
 
-* Overview: https://minitorch.github.io/module4.html
+<!-- * Overview: https://minitorch.github.io/module4.html -->
 
 This project is an re-implemented version of PyTorch at the Machine Learning Engineering Course project [minitorch](https://minitorch.github.io/). 
 
