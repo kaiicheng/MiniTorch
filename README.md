@@ -14,6 +14,8 @@ Instructed by Professor Sasha Rush at Cornell Tech.
 
 ## Descriptions 
 
+<img src="1.1.png" width="80%"> <img src="1.3.png" width="80%">
+
 - Constructed a deep learning system using Python, including auto-differentiation, backpropagation, and tensor matrix operations.
 
 - Implemented parallel computing with Numba and CUDA.
