@@ -14,7 +14,7 @@ Instructed by Professor Sasha Rush at Cornell Tech.
 
 ## Descriptions 
 
-<img src="1.1.png" width="50%"> <img src="1.3.png" width="50%">
+<img src="1.1.png" width="45%"> <img src="1.3.png" width="45%">
 
 - Constructed a deep learning system using Python, including auto-differentiation, backpropagation, and tensor matrix operations.
 
