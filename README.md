@@ -1,5 +1,5 @@
-<img src="https://minitorch.github.io/minitorch.svg" width="50%">
-<img src="/networkcnn.png" width="50%">
+<img src="https://minitorch.github.io/minitorch.svg" width="40%">
+<img src="/networkcnn.png" width="40%">
 
 # MiniTorch
 
